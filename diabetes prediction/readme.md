@@ -1,4 +1,4 @@
-**Diabetes Prediction Project**
+#Diabetes Prediction Project#
 
 This project aims to predict the onset of diabetes based on various features such as glucose level, blood pressure, BMI, etc. The prediction is performed using machine learning algorithms on a dataset containing information about patients.
 
